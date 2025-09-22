@@ -1,0 +1,3 @@
+# WARNING: In a real application, this secret should be stored securely and not in the code
+SECRET_KEY = "ONLY USING FOR THIS EXERCISE, NORMALLY WE WOULD CREATE A COMPLEX SECRET AND KEEP IT SAFE OUTSIDE OF THE SOURCE CODE"
+ALGORITHM = "HS256"
